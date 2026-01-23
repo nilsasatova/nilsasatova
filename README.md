@@ -27,9 +27,9 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> About me
 
 <p>
-Soy QA Engineer apasionada por la calidad y la experiencia del usuario. Me gusta analizar cada detalle, hacer las preguntas correctas y asegurar que los productos funcionen de forma clara, rápida y confiable.
+I'm a QA Engineer passionate about quality and user experience. I enjoy analyzing every detail, asking the right questions, and ensuring products function clearly, quickly, and reliably.
 
-He trabajado en pruebas manuales, de regresión y API, colaborando en sprints ágiles y apoyando a los equipos a detectar errores a tiempo. Disfruto transformar problemas en mejoras reales que aporten valor al producto y a las personas que lo usan.
+I work on manual, regression, and API testing, collaborating on agile sprints and supporting teams in detecting bugs early. I enjoy transforming problems into real improvements that add value to the product and the people who use it.
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -74,20 +74,8 @@ He trabajado en pruebas manuales, de regresión y API, colaborando en sprints á
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" />
  &emsp;
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
-
-
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-
-</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Database and analysis
  
@@ -117,7 +105,7 @@ He trabajado en pruebas manuales, de regresión y API, colaborando en sprints á
    
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Automation & AI
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Automation & AI
  
 <p align="center">
   &emsp;
