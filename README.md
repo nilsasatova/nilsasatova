@@ -120,112 +120,121 @@ I work on manual, regression, and API testing, collaborating on agile sprints an
 
 <p align = "center">
 	
+## 🧪 Project: Form Validation Testing – DEMOQA
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1579444741963-5ae219cfe27c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb" width="400" alt="DEMOQA Form Validation">
 </p>
 
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
 <p align="center">
-    
+  <img src="https://img.shields.io/badge/Testing-Manual-blue?style=plastic">
+  <img src="https://img.shields.io/badge/Focus-Form%20Validation-green?style=plastic">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=plastic">
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+---
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+### 🎯 Objectives
+- Verify that the form correctly validates invalid inputs (e.g., incorrect email format, empty required fields).
+- Ensure all mandatory fields are clearly marked and enforced.
+- Confirm that the form can be successfully submitted with valid data.
+- Observe the visual behavior of the form after submission.
 
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+---
 
- 
-</details>
+### 🛠 Tools Used
+- Google Chrome  
+- Google Sheets (test checklist and evidence tracking)  
+- DemoQA (testing website)  
+- Screenshots used as testing evidence  
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+---
 
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+### ✅ Activities Performed
+- Created a test checklist containing **11 main test cases**.
+- Executed each test case manually.
+- Documented expected vs. actual results.
+- Verified front-end validation behavior.
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+---
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
+### 📎 Results
+- The form correctly validates required fields and formats such as email and phone number.
+- Visual alerts are displayed when required information is missing.
+- The form presents an accurate summary of the submitted data after a successful submission.
+- Issues were identified in how validation messages are communicated to the user and were properly reported.
 
-</br></br>
+---
+
+### 📂 Evidence
+📎 **Test cases, checklist, and screenshots:**  
+👉 https://docs.google.com/spreadsheets/d/1Wg7aDi-qqWlicqHl4-Q2ss6lbN2bHPqq/edit?usp=sharing
+
+---
+
+### 💡 Final Thoughts
+This project allowed me to practically apply **manual testing fundamentals**, professionally organize test cases, and reinforce the importance of validating user input before form submission.
+
+</p>
+
+## 🛒 Project: Urban Grocers – API Testing (Backend)
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb" width="700" alt="Urban Grocers API Testing">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-API%20Manual-blue?style=plastic">
+  <img src="https://img.shields.io/badge/Tools-Postman%20%7C%20JIRA-green?style=plastic">
+  <img src="https://img.shields.io/badge/Methodology-Scrum-orange?style=plastic">
+</p>
+
+---
+
+### 🎯 Project Overview
+Urban Grocers is a backend API testing project focused on validating new API functionality to ensure compliance with functional and business requirements.
+
+---
+
+### ✅ Key Achievements
+- Created a **test checklist** to validate new backend API functionality, ensuring all endpoints met functional and business requirements.
+- Performed **manual API testing using Postman**, executing `GET`, `POST`, `PUT`, and `DELETE` requests with both valid and invalid payloads to verify:
+  - HTTP status codes
+  - Proper error messages
+  - Required field validation
+  - Data integrity in JSON responses
+- Identified and documented **bugs and unexpected behaviors** in **JIRA**, including detailed descriptions, clear reproduction steps, and attached evidence (screenshots or Postman exports).
+- Validated critical backend aspects such as:
+  - User authentication
+  - Unauthorized access handling
+  - Inventory and product management via API
+  - Data update logic (e.g., stock levels and pricing)
+- Participated in a **Scrum-based workflow**, collaborating with the team during the testing lifecycle.
+
+---
+
+### 🛠 Tools Used
+- Postman  
+- JIRA  
+
+---
+
+### 📎 Evidence
+📎 **Test cases, API checklist, and documented results:**  
+👉 https://docs.google.com/document/d/1vU3vRTmuaz9R24Ml8FiyrHMXoIymfM9T/edit
+
+---
+
+### 📅 Project Date
+November, 2024
+
+---
+
+### 💡 Final Thoughts
+This project strengthened my skills in **manual API testing**, backend validation, and professional bug reporting, while reinforcing the importance of ensuring data integrity and security in API-driven systems.
+
+
+
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
